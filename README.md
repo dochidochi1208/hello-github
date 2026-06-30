@@ -1,0 +1,2 @@
+# hello-github
+Github 첫 저장소 만들기 연습
